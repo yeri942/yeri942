@@ -1,32 +1,8 @@
-<style>
-img{
-    display:inline-block;
-}
-*{
-    cursor:url("./cursor.png"),auto;
-    transition-duration: .2s;
-    text-align:center
-}
-#name{
-        background: linear-gradient(rgb(156, 100, 209), #ffa69e);
-        color: transparent;
-        -webkit-background-clip: text;
-        margin:0
-    }
-::selection {
-    background-color: black;
-	color: white;
-}
-</style>
-
-<p id="name" style="font-size:100px; font-weight:900;">YERI</P>
-<span style="font-size:50px;">Hello!👋 <br>I'm <b>Web Publisher.</b></span>
-<br>
-<br>
+<img src="./main.png" width="250"/>
 <br>
 <br>
 
-<h1 style="font-size:20px;"><b>Stacks</b></h1>
+<h1><b>Stacks</b></h1>
 <b>Front-End<br><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
