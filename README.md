@@ -1,9 +1,9 @@
-<img src="./main.png" width="250"/>
+<p align="center"><img src="./titleImg.png" width="250"/></p>
 <br>
 <br>
 
-<h1><b>Stacks</b></h1>
-<b>Front-End<br><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+<h3 align="center"><b>Stacks</b></h3>
+<p align="center"> <b>Front-End<br><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> <br>
@@ -16,3 +16,4 @@ Design<br>
 <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 </b>
+</p>
