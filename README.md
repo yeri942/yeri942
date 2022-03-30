@@ -1,5 +1,5 @@
 <br><br>
-<p align="center"><img src="./titleImg.png" width="250"/></p>
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Kim%20Yeri&fontSize=90" />
 <br><br>
 
 <h3 align="center"><b>💙Pages💙</b></h3>
@@ -21,4 +21,6 @@ Design<br>
 <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </b>
+    
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeri942)](https://github.com/yeri942/github-readme-stats)
 </p>
