@@ -1,7 +1,7 @@
-<span>
+<div align="center">
 <img src="https://user-images.githubusercontent.com/97173976/160863732-f8d9ab16-f4bb-4a35-8d2f-1fcf25dba9d8.jpg" height="300"/>
 </span>
-
+<h1>Hello👋<br>I'm Web Publisher Yeri Kim!😎</h1>
 <a href="https://ganzicod.tistory.com/" target='_blank'><img src="./tistory.png" width="24"/></a>
 <a href="https://cloudy-credit-01e.notion.site/bce4573d8ace4a3fb41bb009aa19f361" target='_blank'><img src="./notion.png" width="24"/></a> <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -17,3 +17,4 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yeri942&show_icons=true&theme=material-palenight)
  &nbsp;
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dpfl0445)](https://solved.ac/dpfl0445/)
+</div>
