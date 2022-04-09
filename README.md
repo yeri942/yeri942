@@ -18,6 +18,5 @@
 <br><br><br>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yeri942&show_icons=true&theme=material-palenight)
- &nbsp;
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dpfl0445)
+
 </div>
