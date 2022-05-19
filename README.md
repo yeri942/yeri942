@@ -17,6 +17,4 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 <br><br><br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yeri942&show_icons=true&theme=material-palenight)
-
 </div>
