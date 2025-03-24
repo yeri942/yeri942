@@ -5,7 +5,7 @@
 <br>
 💜 <b>Site</b> 💜 <br>
 <a href="https://ganzicod.tistory.com/" target='_blank'><img src="./tistory2.png" width="24"/></a>
-<a href="https://cloudy-credit-01e.notion.site/bce4573d8ace4a3fb41bb009aa19f361" target='_blank'><img src="./notion.png" width="24"/></a><br><br>
+<a href="https://cloudy-credit-01e.notion.site/1be86893d22c8013aa68dba712a938ff" target='_blank'><img src="./notion.png" width="24"/></a><br><br>
 💙 <b>Stacks</b> 💙<br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
